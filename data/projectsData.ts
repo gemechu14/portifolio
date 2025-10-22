@@ -214,12 +214,13 @@ export const projectsData: Project[] = [
     demoMedia: {
       type: "images",
       content: [
-        "/images/capacity.PNG",
-        "/images/report1.PNG",
-        "/images/report2.PNG",
-        "/images/report 3.PNG"
+        "/images/payroll/landing.PNG",
+        "/images/payroll/2.PNG",
+        "/images/payroll/3.PNG",
+        "/images/payroll/4.PNG",
+        "/images/payroll/5.PNG",
       ],
-      thumbnail: "/images/report2.PNG"
+      thumbnail: "/images/payroll/landing.PNG"
     },
     features: [
       "Automated payroll and attendance management",
@@ -250,12 +251,20 @@ export const projectsData: Project[] = [
     demoMedia: {
       type: "images",
       content: [
-        "/images/tenant.PNG",
-        "/images/theme and branding.PNG",
-        "/images/navigation1.PNG",
-        "/images/layout.PNG"
+        "/images/cedar/2.PNG",
+        "/images/cedar/3.PNG",
+        "/images/cedar/4.PNG",
+        "/images/cedar/5.PNG",
+        "/images/cedar/6.PNG",
+        "/images/cedar/7.PNG",
+        "/images/cedar/8.PNG",
+        "/images/cedar/9.PNG",
+        "/images/cedar/10.PNG",
+        "/images/cedar/11.PNG",
+        "/images/cedar/12.PNG",
+        "/images/cedar/13.PNG",
       ],
-      thumbnail: "/images/report2.PNG"
+      thumbnail: "/images/cedar/10.PNG"
     },
     features: [
       "Power BI integration for real-time reporting",
@@ -280,13 +289,18 @@ export const projectsData: Project[] = [
     demoMedia: {
       type: "images",
       content: [
-        "/images/capacity.PNG",
-        "/images/colors.png",
-        "/images/font.png",
-        "/images/layout.png",
-        "images/report2.png"
+        "/images/ffr/1.jpg",
+        "/images/ffr/2.jpg",
+        "/images/ffr/3.jpg",
+        "/images/ffr/4.jpg",
+        "/images/ffr/5.jpg",
+        "/images/ffr/6.jpg",
+        "/images/ffr/7.jpg",
+        "/images/ffr/8.jpg",
+        "/images/ffr/9.jpg",
+
       ],
-      thumbnail: "images/report2.png"
+      thumbnail: "images/ffr/1.jpg"
     },
     features: [
       "Fully responsive design",
@@ -341,12 +355,15 @@ export const projectsData: Project[] = [
     demoMedia: {
       type: "images",
       content: [
-        "/images/theme and branding.PNG",
-        "/images/layout.PNG",
-        "/images/colors.PNG",
-        "/images/font.PNG"
+        "/images/epco/1.png",
+        "/images/epco/2.png",
+        "/images/epco/3.png",
+        "/images/epco/3.png" ,
+         "/images/epco/4.png",
+        "/images/epco/4.png",
+        "/images/epco/6.png",
       ],
-      thumbnail: "/images/home.jpg"
+      thumbnail: "/images/epco/1.png"
     },
     features: [
       "Accessibility-compliant design",
