@@ -355,15 +355,15 @@ export const projectsData: Project[] = [
     demoMedia: {
       type: "images",
       content: [
-        "/images/epco/1.png",
-        "/images/epco/2.png",
-        "/images/epco/3.png",
-        "/images/epco/3.png" ,
-         "/images/epco/4.png",
-        "/images/epco/4.png",
-        "/images/epco/6.png",
+        "/images/epco/1.PNG",
+        "/images/epco/2.PNG",
+        "/images/epco/3.PNG",
+        "/images/epco/3.PNG" ,
+         "/images/epco/4.PNG",
+        "/images/epco/4.PNG",
+        "/images/epco/6.PNG",
       ],
-      thumbnail: "/images/epco/1.png"
+      thumbnail: "/images/epco/1.PNG"
     },
     features: [
       "Accessibility-compliant design",
